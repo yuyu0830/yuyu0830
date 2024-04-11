@@ -1,20 +1,16 @@
 <div align = "center">
   
 ![](https://capsule-render.vercel.app/api?type=waving&height=130&text=&fontAlign=80&fontAlignY=40&color=gradient)
-  
-<a target="_blank" href="https://www.instagram.com/nomean_id?igsh=ZjRhNDRwbGs3OG40&utm_source=qr">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-</a>
-  
-<a target="_blank" href="https://blog.naver.com/abdds1166">
-  <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
-</a>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuyu0830&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>👋 Introduce 👋</h2>
 
 <h3>HI! 개발자 우상원 입니다 :)</h3><br>
+🔗blog : <a href="https://blog.naver.com/abdds1166"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a><br>
+🔗Instagram : <a href="https://www.instagram.com/nomean_id?igsh=ZjRhNDRwbGs3OG40&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 
 <h3>관심사</h3>
 🎮 C++ / Unreal 을 이용한 게임 개발<br>
